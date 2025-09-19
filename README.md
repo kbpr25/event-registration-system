@@ -46,6 +46,21 @@ event-registration-system/
 - Amazon Cognito Identity SDK
 - Responsive Design (Mobile-First)
 
+## 📊 Project Documentation
+
+### Complete Project Report
+A comprehensive PDF report detailing the entire EventPro development process
+
+**Report Contents:**
+- 🏗️ **System Architecture** - Complete technical specifications
+- 🔄 **Workflow Diagrams** - DynamoDB schema, user journeys, ticketing process
+- 💰 **Cost Analysis** - Detailed breakdown and scalability planning
+- ⚡ **Implementation Details** - Development methodology and best practices
+- 📈 **Performance Metrics** - Scalability and reliability benchmarks
+- 🎯 **Executive Summary** - Business impact and technical achievements
+
+**📥 [View Project Report](./event-registration-system.pdf)**
+
 ## Author
 Developed by [kbpr25] - Cloud, AWS Engineer
 
